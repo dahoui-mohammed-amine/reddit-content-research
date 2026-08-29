@@ -8,3 +8,7 @@ wheels/
 
 # Virtual environments
 .venv
+
+# SSH keys
+/git_bobo
+/git_bobo.pub
